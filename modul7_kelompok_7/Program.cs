@@ -9,5 +9,8 @@ class Program
 
         TeamMembers103022330152 anggota = new TeamMembers103022330152();
         anggota.ReadJSON();
+
+        GlossaryItem103022330152 kam = new GlossaryItem103022330152();
+        kam.ReadJSON();
     }
 }
