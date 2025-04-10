@@ -36,9 +36,9 @@ using namespace modul7_kelompok_7
                 $" beralamatkan di {data.address.streetAddress}, {data.address.city}, {data.address.state}");
             Console.WriteLine("Daftar Mata kuliah yang diambil :");
             int i = 1;
-            foreach (var course in data.courses)
+            foreach (var courses in data.course)
             {
-                Console.WriteLine($"MK {i} {course.code} - {course.name}");
+                Console.WriteLine($"MK {i} {courses.code} - {courses.name}");
                 i++;
             }
         }
