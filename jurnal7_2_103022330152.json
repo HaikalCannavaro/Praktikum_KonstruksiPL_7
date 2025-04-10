@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+      "firstName": "Haikal",
+      "lastName": "Cannavaro",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300106"
+    },
+    {
+      "firstName": "Subhan",
+      "lastName": "Ahmad",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300081"
+    },
+    {
+      "firstName": "Devon",
+      "lastName": "Daniswara",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300085"
+    }
+    {
+      "firstName": "Angga",
+      "lastName": "Saputra",
+      "gender": "male",
+      "age": 20,
+      "nim": "356754675"
+    }
+  ]
+}
