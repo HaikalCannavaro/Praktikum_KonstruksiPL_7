@@ -37,7 +37,7 @@ namespace modul7_kelompok_7
             string jsonString = File.ReadAllText("D:\\konstruksi perangkat lunak\\Praktikum_KonstruksiPL_7\\modul7_kelompok_7\\jurnal7_1_103022300143.json");
             nama mhs = JsonSerializer.Deserialize<nama>(jsonString);
 
-            Console.WriteLine($"Nama: {mhs.depan} {mhs.belakang}");
+            Console.WriteLine($"Nama: {mhs.firstname} {mhs.lastname}");
             Console.WriteLine($"Gender: {mhs.gender}");
             Console.WriteLine($"Umur: {mhs.age}");
             Console.WriteLine($"Alamat: {mhs.address.streetAddress}, {mhs.address.city}, {mhs.address.state}");

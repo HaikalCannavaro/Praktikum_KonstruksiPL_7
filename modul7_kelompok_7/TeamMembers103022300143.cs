@@ -12,7 +12,32 @@ namespace modul7_kelompok_7
         public string belakang { get; set; }
         public string gender { get; set; }
         public int age { get; set; }
-        public Address address { get; set; }
-        public List<Course> courses { get; set; }
+        public int nim { get; set; }  
     }
+    class member2
+    {
+        public string depan { get; set; }
+        public string belakang { get; set; }
+        public string gender { get; set; }
+        public int age { get; set; }
+        public int nim { get; set; }
+    }
+    class member3
+    {
+        public string depan { get; set; }
+        public string belakang { get; set; }
+        public string gender { get; set; }
+        public int age { get; set; }
+        public int nim { get; set; }
+    }
+    class member4
+    {
+        public string depan { get; set; }
+        public string belakang { get; set; }
+        public string gender { get; set; }
+        public int age { get; set; }
+        public int nim { get; set; }
+    }
+
+
 }
