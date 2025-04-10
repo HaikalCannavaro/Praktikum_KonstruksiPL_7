@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Haikal",
+       "lastName": "Cannavaro",
+       "gender": "male",
+       "age": 19,
+       "nim": "103022300106"
+    },
+    {
+       "firstName": "Devon",
+       "lastName": "Arya Daniswara",
+       "gender": "male",
+       "age": 19,
+       "nim": "103022300085"
+    },
+    {
+       "firstName": "Aslam",
+       "lastName": "Rizky Fadillah",
+       "gender": "female",
+       "age": 19,
+       "nim": "103022330152"
+    }
+  ]
+}
