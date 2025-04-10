@@ -10,8 +10,8 @@ namespace modul7_kelompok_7
 {
     public class nama
     {
-        public string depan { get; set; }
-        public string belakang { get; set; }
+        public string firstname { get; set; }
+        public string lastname { get; set; }
         public string gender { get; set; }
         public int age { get; set; }
         public Address address { get; set; }
